@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css"> 
+
+html, body {
+  margin: 0;   
+  font-family: Arial, sans-serif; 
+}
+
+</head>
+<body>
+  <div class="content">
+    <h1>这是水平居中的内容</h1>
+    <p>这段文字会水平居中。</p>
+  </div>
+</body>
+</html>
